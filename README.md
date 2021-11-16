@@ -1,6 +1,6 @@
 # Fake-News-Detection about Covid-19
 
-Using Twint and some Datasets found on Github, the aim of this project is to train some machine learning models to classify and detecte whether a news related to Covid19 is true or not.
+Using Twint and some Datasets found on Github, the aim of this project is to train some machine learning models to classify and detect whether a news related to Covid19 is true or not.
 Adding to that, an app was made to display the results using Streamlit.
 
 
